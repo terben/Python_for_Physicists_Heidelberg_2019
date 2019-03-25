@@ -19,7 +19,7 @@ programming language.
   problems 1-15 without too much effort in your favourite programming
   language.
 
-- If you would like to learn some basic *Python* beforehand, I
+- If you would like to learn some basic `Python` beforehand, I
   recommend the excellent, freely-available book
   [ThinkPython](http://greenteapress.com/wp/think-python-2e//). Chapters 1-14
   contain topics that you should be familiar with in your programming language.
@@ -27,8 +27,8 @@ programming language.
 ## Computer / Laptop setup
 Each student will work actively with an own computer. As far as I
 know, the Heidelberg computer pool offers enough computers for
-all of you. You alsp can bring your own laptop and work with it if you
-prefer. Necessary setup procedures for own computers are described
+all of you. You also can bring your own laptop and work with it. Necessary setup
+procedures for own computers are described
 [here](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/tree/master/computer_setup).
 If you bring your own laptop, please make sure that you have a working
 *Python*-setup **before** coming to the first class!
