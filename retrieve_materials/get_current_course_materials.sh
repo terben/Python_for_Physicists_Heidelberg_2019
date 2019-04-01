@@ -19,7 +19,8 @@ if [ ! -d ${DIR} ]; then
   git clone ${GIT_REPO}
   #
   echo ""
-  echo "Please go to ${DIR} and call 'jupyter notebook' there."
+  echo "Please go to ${DIR} and call 'jupyter nnotebook' (own laptop)"
+  echo "or 'bash start-jupyter-notebook.sh' (CIP-Pool) there."
 else
   echo "You probably already retrieved the materials from GitHub!"
   echo "If you want to retrieve them again, then explicitely"
