@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -u
 
 # script to retrieve current materials for 'Programming in Python SS2018'.
 # The script creates a subdirectory with the current date and puts
@@ -19,7 +19,8 @@ if [ ! -d ${DIR} ]; then
   git clone ${GIT_REPO}
   #
   echo ""
-  echo "Please go to ${DIR} and call 'jupyter nnotebook' (own laptop)"
+  echo "Please go to ${DIR}/Python_for_Physicists_Heidelberg_2019"
+  echo "and call 'jupyter nnotebook' (own laptop)"
   echo "or 'bash start-jupyter-notebook.sh' (CIP-Pool) there."
 else
   echo "You probably already retrieved the materials from GitHub!"
