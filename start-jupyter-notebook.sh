@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -u
 
 # script to start jupyter notebooks on the Heidelberg computer CIP-Pool.
 
@@ -11,11 +11,11 @@
 
 # change the following line if you want to use another broswer than
 # firefox
-BROWSER=/usr/local/bin/firefox
+BROWSER=$(which firefox)
 
 # The following line is specific to Heidelberg to acticate Anaconda
 # Python 3.7
-source /data/anaconda3/anaconda.sh
+test -f /data/anaconda3/anaconda.sh && source /data/anaconda3/anaconda.sh
 
 # and start the notebook:
 jupyter notebook --port=$((`id -u` % 55535 + 10000)) --browser=${BROWSER}
