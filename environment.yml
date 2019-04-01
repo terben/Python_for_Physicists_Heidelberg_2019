@@ -1,0 +1,8 @@
+name: Python-course-Heidelberg-2019
+
+dependencies:
+  - python>=3.6
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
