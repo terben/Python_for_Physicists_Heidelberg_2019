@@ -9,7 +9,7 @@
 # administrate the materials.
 
 # git-repo for the course:
-GIT_REPO=https://github.com/terben/Programming_in_Python_Bonn_Summer_2018.git
+GIT_REPO=https://github.com/terben/Python_for_Physicists_Heidelberg_2019.git
 
 DIR=python_course_$(date +'%F')
 
