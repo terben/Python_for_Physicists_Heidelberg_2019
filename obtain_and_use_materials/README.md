@@ -33,10 +33,10 @@ There are two possibilities to obtain and to use the course materials:
      `get_current_course_materials.sh` via
 
      ```
-     user$ wget https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/retrieve_materials/get_current_course_materials.sh
+     user$ wget https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/obtain_and_use_materials/get_current_course_materials.sh
      ```
 
-     or via [this link](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/retrieve_materials/get_current_course_materials.sh). This only needs to be done once for the whole
+     or via [this link](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/obtain_and_use_materials/get_current_course_materials.sh). This only needs to be done once for the whole
      course.
 
   3. At the begining of each course-day, go to the directory and execute:
