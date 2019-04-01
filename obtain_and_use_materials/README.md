@@ -19,7 +19,7 @@ There are two possibilities to obtain and to use the course materials:
   (CIP-pool or own laptop). This is definitely preferred to the option above.
 
   In the following, I describe necessary steps in a
-  `Unix/Linux/OSX`-enviroenment. Please ask me if you have a `Windows`-laptop.
+  `Unix/Linux/OSX`-environment. Please ask me if you have a `Windows`-laptop.
 
   Those familiar with `git` and `github` should download and
   administrate the course materials with `git`-commands.
