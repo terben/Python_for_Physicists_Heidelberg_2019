@@ -19,7 +19,7 @@ There are two possibilities to obtain and to use the course materials:
   (CIP-pool or own laptop). This is definitely preferred to the option above.
 
   In the following, I describe necessary steps in a
-  `Unix/Linux/OSX`-enviroenment. Please ask me for `Windows`-
+  `Unix/Linux/OSX`-environment. Please ask me if you have a `Windows`-laptop.
 
   Those familiar with `git` and `github` should download and
   administrate the course materials with `git`-commands.
@@ -29,14 +29,14 @@ There are two possibilities to obtain and to use the course materials:
   1. Create a directory, where you want to store course materials. This
   only needs to be done once for the whole course.
 
-  2. Go to that directory and execute and download the script
+  2. Go to that directory and download the script
      `get_current_course_materials.sh` via
 
      ```
-     user$ wget https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/retrieve_materials/get_current_course_materials.sh
+     user$ wget https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/obtain_and_use_materials/get_current_course_materials.sh
      ```
 
-     or via [this link](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/retrieve_materials/get_current_course_materials.sh). This only needs to be done once for the whole
+     or via [this link](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/obtain_and_use_materials/get_current_course_materials.sh). This only needs to be done once for the whole
      course.
 
   3. At the begining of each course-day, go to the directory and execute:
@@ -50,7 +50,6 @@ There are two possibilities to obtain and to use the course materials:
      python_course_2019-04-01 ... # 2019-04-01 needs to be subtituted
                                   # by the current date
      user$ cd python_course_2019-04-01/Python_for_Physicists_Heidelberg_2019
-     user$ bash start-jupyter-notebook.sh   # to start working on the notebooks
      ```
 
      After that, do **on a Heidelberg CIP-Pool computer**
