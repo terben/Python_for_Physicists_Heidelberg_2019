@@ -7,7 +7,7 @@ There are two possibilities to obtain and to use the course materials:
 - You can follow the course and use the materials entirely within a
   Web-Browser - no need to install or to setup *anything*!
 
-  Just click the following button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terben/Python_for_Physicists_Heidelberg_2019/master) to launch an interactive session of the course materials.
+  Just click the following button [![Binder](https://ingress.binderhub.astro.uni-bonn.de/badge_logo.svg)](https://ingress.binderhub.astro.uni-bonn.de/v2/gh/terben/Python_for_Physicists_Heidelberg_2019/master) to launch an interactive session of the course materials.
 
   **Note:** You can work and modify the materials in this way.
     However, all your changes are lost as soon as you leave the
