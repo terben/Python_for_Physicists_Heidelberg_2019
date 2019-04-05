@@ -35,8 +35,8 @@ class and it is available for the *Windows*, *Linux* and *Mac* operating
 systems.
 
 ## Installation test
-Please run the script ```check_heidelberg_python.py``` on your computer to
-check whether you have a well-installed setup:
+Please download the `Python`-script [check_heidelberg_python_2019.py](https://github.com/terben/Python_for_Physicists_Heidelberg_2019/raw/master/computer_setup/check_heidelberg_python_2019.py) and run it on your computer. It checks
+whether you have a well-installed setup:
 
 ```bash
 user$ python3 check_heidelberg_python_2019.py
