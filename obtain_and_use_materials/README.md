@@ -61,9 +61,9 @@ There are two possibilities to obtain and to use the course materials:
      and on your own laptop
 
      ```
-     user$ jupyter notebook
+     user$ jupyter notebook index.ipynb
      ```
 
-     **Note:** Please **do not** do the call `jupyter notebook` on one
-       of the CIP-Pool computers! If you do, you might get into a
+     **Note:** Please **do not** do the call `jupyter notebook index.ipynb`
+       on one of the CIP-Pool computers! If you do, you might get into a
        conflict with another users notebook-session!

@@ -17,5 +17,5 @@ BROWSER=$(which firefox)
 # Python 3.7
 test -f /data/anaconda3/anaconda.sh && source /data/anaconda3/anaconda.sh
 
-# and start the notebook:
-jupyter notebook --port=$((`id -u` % 55535 + 10000)) --browser=${BROWSER}
+# and start the table-of-contents notebook:
+jupyter notebook --port=$((`id -u` % 55535 + 10000)) --browser=${BROWSER} index.ipynb
