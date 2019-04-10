@@ -1,0 +1,39 @@
+Introduction to Python for Physicists (Thomas Erben)
+====================================================
+
+The goal of my lectures it to teach physik-students on the master and
+PhD level how to efficiently and flexibly solve programming
+problems with the easy-to-learn, high-level programming language
+Python.
+
+In the past decade, Python has become the 'Lingua Franca' for computer
+programming in many scientific domains, e.g. physics & astronomy. 
+As a script language it allows us the powerful combination of
+interactive development and writing programs (scripts) for the later
+'mass production' of scientific results. Very powerful and rich
+scientific libraries often give the script language similar processing
+speed to compiled languages such as C or Fortran.
+
+Based on programming knowledge from a traditional scientific language
+such as C, Fortran or Java I will first outline major differences of
+Python to those languages. I will then focus on the Python-usage in
+scientific environments, introduce necessary data-structures
+(numpy-arrays) and present the structure of major scientific libraries
+(the scipy-module). 
+
+The entire course will be hands-on with each student working and
+performing practical exercises on an own computer.
+
+Topics covered in the course:
+- Introduction to Python based on solid prior programming experience
+- Introduction to numpy-arrays (primary Python-data structure for
+  scientific computing)
+- Introduction to the scientific-python modules (scipy)
+- Interactive work / development with Python
+- Plotting with python (the matplotlib module)
+
+If time permits I will also cover the following topics:
+- An introduction to collaborative software-development/version
+  control (github)
+- Symbolic mathematics in Python (the sympy-module). Symbolic
+  mathematics is what programs such as Mathematica or Maple are doing.
