@@ -42,9 +42,8 @@ def binary2dec(b):
 n = 123456789
 
 s = dec2binary(n)
-print(s)
+print("Decimal {} is binary {}".format(n, s))
 
 n_new = binary2dec(s)
-print(n_new)
+print("Binary {} is decimal {}".format(s, n_new))
 
-print(n_new == n)
